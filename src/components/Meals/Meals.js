@@ -3,8 +3,8 @@ import { Fragment, useState } from "react";
 import MealsSummary from "./MealsSummary";
 import AvailableMeals from "./AvailableMeals";
 import MealsForm from "./MealItem/MealsForm";
-import MealItem from "./MealItem/MealIteam";
-import Card from "../UI/Card";
+// import MealItem from "./MealItem/MealIteam";
+// import Card from "../UI/Card";
 
 const DUMMY_MEALS = [
   {
